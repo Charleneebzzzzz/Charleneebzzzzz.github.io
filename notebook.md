@@ -34,7 +34,6 @@
 </details>
 
 
-
 <details>
   <summary>selection</summary>
     The point where decisions are made in an algorithm
@@ -65,8 +64,21 @@
 
 
 
+need to finish
+	<img width="1350" height="635" alt="image" src="https://github.com/user-attachments/assets/64fe4775-da18-422d-bb5e-d8c73e40ac04" />
 
-	
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
